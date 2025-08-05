@@ -22,10 +22,9 @@ By integrating **Watsonx.ai foundation models** through **Prompt Lab**, the chat
 |------------------------------|------------------------------------------------------------|
 | `README.md`                  | Overview and setup instructions                            |
 | `chatbot-design.md`          | Detailed chatbot design and flow documentation             |
-| `config-files/`              | Exported configuration files (intents, dialogs, etc.)      |
-| `assets/screenshots/`        | UI screenshots of chatbot interactions                     |
-| `assets/diagrams/`           | Architecture and flow diagrams                             |
+| `screenshots`                | UI screenshots of chatbot interactions                     |
 | `.gitignore`                 | Specifies untracked files/folders for version control      |
+| `.gitattributes`             | Define attributes for paths in your project.               |
 
 ---
 
@@ -50,6 +49,7 @@ This chatbot project was developed during my 4-week virtual internship at **IBM 
 > For inquiries, collaborations, or feedback, feel free to connect!
 
 ---
+
 
 
 
