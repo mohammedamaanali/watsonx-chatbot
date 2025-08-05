@@ -44,13 +44,14 @@ This chatbot project was developed during my 4-week virtual internship at **IBM 
 
 ## 📬 Contact Information
 
-**Mohd Rehan**  
+**Mohammed Amaan Ali**  
 📎 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-💻 [GitHub](https://github.com/your-username)  
+💻 [GitHub]([https://github.com/your-username](https://github.com/mohammedamaanali))  
 
 > For inquiries, collaborations, or feedback, feel free to connect!
 
 ---
+
 
 
 
