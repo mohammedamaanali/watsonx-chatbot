@@ -32,10 +32,10 @@ By integrating **Watsonx.ai foundation models** through **Prompt Lab**, the chat
 ## 📸 Visual Preview
 
 > Add your screenshots in the `assets/screenshots/` folder and embed them below using the format:  
-> `![Chatbot Screenshot](assets/Picture1.jpg)`
-> `![Chatbot Screenshot](assets/Picture2.jpg)`
-> `![Chatbot Screenshot](assets/Picture3.jpg)`
-> `![Chatbot Screenshot](assets/Picture4.jpg)`
+> `![Chatbot Screenshot](Picture1.jpg)`
+> `![Chatbot Screenshot](Picture2.jpg)`
+> `![Chatbot Screenshot](Picture3.jpg)`
+> `![Chatbot Screenshot](Picture4.jpg)`
 
 ---
 
@@ -54,4 +54,5 @@ This chatbot project was developed during my 4-week virtual internship at **IBM 
 > For inquiries, collaborations, or feedback, feel free to connect!
 
 ---
+
 
